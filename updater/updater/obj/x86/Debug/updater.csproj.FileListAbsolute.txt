@@ -1,0 +1,9 @@
+c:\users\bloodman\documents\visual studio 2010\Projects\updater\updater\bin\Debug\updater.exe
+c:\users\bloodman\documents\visual studio 2010\Projects\updater\updater\bin\Debug\updater.pdb
+c:\users\bloodman\documents\visual studio 2010\Projects\updater\updater\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bloodman\documents\visual studio 2010\Projects\updater\updater\obj\x86\Debug\updater.Form1.resources
+c:\users\bloodman\documents\visual studio 2010\Projects\updater\updater\obj\x86\Debug\updater.Properties.Resources.resources
+c:\users\bloodman\documents\visual studio 2010\Projects\updater\updater\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bloodman\documents\visual studio 2010\Projects\updater\updater\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bloodman\documents\visual studio 2010\Projects\updater\updater\obj\x86\Debug\updater.exe
+c:\users\bloodman\documents\visual studio 2010\Projects\updater\updater\obj\x86\Debug\updater.pdb

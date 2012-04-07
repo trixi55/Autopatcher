@@ -1,0 +1,33 @@
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\bin\Debug\AutoPatcher.exe
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\bin\Debug\AutoPatcher.pdb
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Form1.resources
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Properties.Resources.resources
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.exe
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.pdb
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.exe
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.pdb
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\bin\Debug\AutoPatcher.exe
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\bin\Debug\AutoPatcher.pdb
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Form1.resources
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Properties.Resources.resources
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Browser.resources
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Registracia.resources
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Rules.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.exe
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.pdb
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\bin\Debug\AutoPatcher.exe
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\bin\Debug\AutoPatcher.pdb
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Browser.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Form1.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Properties.Resources.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Registracia.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Debug\AutoPatcher.Rules.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Debug\GenerateResource.write.1.tlog

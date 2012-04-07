@@ -1,0 +1,42 @@
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\bin\Release\AutoPatcher.exe
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\bin\Release\AutoPatcher.pdb
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Form1.resources
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Properties.Resources.resources
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.exe
+c:\users\bloodman\documents\visual studio 2010\Projects\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.pdb
+C:\Users\Bloodman\Desktop\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.exe
+C:\Users\Bloodman\Desktop\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.pdb
+C:\Users\Bloodman\Desktop\AutoPatcher\AutoPatcher\bin\Release\AutoPatcher.exe
+C:\Users\Bloodman\Desktop\AutoPatcher\AutoPatcher\bin\Release\AutoPatcher.pdb
+C:\Users\Bloodman\Desktop\AutoPatcher\AutoPatcher\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bloodman\Desktop\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Form1.resources
+C:\Users\Bloodman\Desktop\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Properties.Resources.resources
+C:\Users\Bloodman\Desktop\AutoPatcher\AutoPatcher\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Bloodman\Desktop\AutoPatcher\AutoPatcher\obj\x86\Release\GenerateResource.write.1.tlog
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\bin\Release\AutoPatcher.exe
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\bin\Release\AutoPatcher.pdb
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Release\ResolveAssemblyReference.cache
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Form1.resources
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Properties.Resources.resources
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Release\GenerateResource.read.1.tlog
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Release\GenerateResource.write.1.tlog
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.exe
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.pdb
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Browser.resources
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Registracia.resources
+L:\Metin\Klient\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Rules.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.exe
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.pdb
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\bin\Release\AutoPatcher.exe
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\bin\Release\AutoPatcher.pdb
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Browser.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Form1.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Properties.Resources.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Registracia.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Release\AutoPatcher.Rules.resources
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Bloodman\Desktop\src\AutoPatcher\AutoPatcher\obj\x86\Release\GenerateResource.write.1.tlog
