@@ -27,8 +27,6 @@ namespace AutoPatcher
         {
             InitializeComponent();
             button1.Enabled = false;
-
-            timer1.Enabled = false;
         }
 
 
