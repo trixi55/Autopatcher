@@ -12,45 +12,34 @@ using System.Xml;
 using System.Net;
 using System.Threading;
 
-namespace updater
-{
-    public partial class Form1 : Form
-    {
-        public Form1()
-        {
+namespace updater {
+    public partial class Form1 : Form {
+        public Form1() {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            
-        }
 
-        private void timer1_Tick(object sender, EventArgs e)
-        {
+        private void Form1_Load(object sender, EventArgs e) { }
+
+
+        private void timer1_Tick(object sender, EventArgs e) {
             if (progressBar1.Value < 100)
-            {
                 progressBar1.Value++;
-            }
         }
 
-        private void progressBar1_Click(object sender, EventArgs e)
-        {
 
-        }
+        private void progressBar1_Click(object sender, EventArgs e) { }
 
-        private void timer2_Tick(object sender, EventArgs e)
-        {
+
+        private void timer2_Tick(object sender, EventArgs e) {
             timer2.Enabled = false;
-            if (File.Exists("launcher-new"))
-            {
-                if (File.Exists("Launcher.exe"))
-                {
-                    File.Delete("Launcher.exe");
-                }
+            if (File.Exists("autopatcher-new")) {
+                if (File.Exists("AutoPatcher.exe"))
+                    File.Delete("AutoPatcher.exe");
 
-                File.Copy("launcher-new", "Launcher.exe");
-                System.Diagnostics.Process.Start("Launcher.exe");
+                File.Copy("autopatcher-new", "AutoPatcher.exe");
+                File.Delete("autopatcher-new");
+                System.Diagnostics.Process.Start("AutoPatcher.exe");
             }
             this.Close();
         }

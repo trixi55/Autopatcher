@@ -1,23 +1,11 @@
 Postup instalacie:
-1. Klient musi obsahovat subory Game.bin ktory bude spustaci subor hry a config.exe s ktorym sa nastavuje konfiguracia klienta
-2. Skopirujte subor updater.exe do hlavnej zlozky klienta inak vam nepojde self-update klienta
-3. na http servery vytvorte zlozky "launcher" a "metin"
-4. do hlavneho adresara http serveru nakopirujete pathinfocreator.php a news.html (aktualne novinky)
-5. otvorite si launcher vo Visual Studiu alebo Visual C# a zmenite nasledovne hodnoty
-	a) string filesURL = "http://www.sampko.wz.cz/"; //Zmenite URL na vlastnu
-	b) string launcherURL = "http://sampko.wz.cz/launcher/"; // Tiez zmenite URL an vlastnu ale musi tam ostat zlozka /launcher/
-	c) int v = 6; // Zmenite na vami zvolenu verziu launcheru, idealne je zacat cislo 1 a potom ho postupne zvisovat ked budete chciet aby sa stiahol novy launcher (nie klient!)
-6. V subore version.xml zmenite verziu launchera na vami zvolenu. Vzdy ked zmenite verziu v launchery nezabudnite zmenit verziu aj vo version.xml
-7. Skompilujte launcher a skopirujte ho na http server do zkozky metin/Launcher.exe a launcher/launcher.exe
-8. do zlozky metin nakopirujete metin klienta
-9. do zlozky "launcher" nakopirujte version.xml
-10. spustite pathinfocreator.php a nechajte nech vytvori pahtinfo.xml
+1. Na web server nahrajte zlozku patchcreator a nastavte URL v patchcreator/metin/autopatcher.cfg na url pzlozky patchcreator napr. http://www.vasweb.com/patchcreator/
+2. do zlozky patchcreator/metin/ nakopirujete metin klienta
+3. spustite patchcreator/create.php a nechajte nech vytvori patchinfo.xml
+4. Staci ked si stiahnete AutoPatcher.exe a autopatcher.cfg, spustite AutoPatcher.exe a zvisok si Autopatcher stiahne sam
 
-Nezabudnite:
-Vzdy ked upravite launcher tak musite navysit verziu o 1
-Vzdy ked zmenite metin klienta na servery tak musite znovu spustit pathinfocreator.php aby sa prejavily zmeny
+POZOR:
+Vzdy ked budete chciet vydat novu verziu Autopatcheru (nie Metin 2 klienta) tak musite zvisit verziu v zlozke patchcreator/metin/autopatcher.cfg o 1
+Vzdy ked zmenite Metin 2 klienta na servery tak musite znovu spustit create.php aby sa prejavily zmeny
 
-
-Toto je vsetko, a ak nahodou by ste mi chceli prispiet nejakou malou financnou ciastkou tak mozete na paypal Bloodman@gshost.eu, diky.
-
-Copyright by Bloodman. All right reserved.
+Copyright by Bloodman. All rights reserved.

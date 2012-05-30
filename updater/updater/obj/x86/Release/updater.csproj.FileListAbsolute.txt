@@ -27,3 +27,11 @@ L:\Metin\Klient\src\updater\updater\obj\x86\Release\GenerateResource.read.1.tlog
 L:\Metin\Klient\src\updater\updater\obj\x86\Release\GenerateResource.write.1.tlog
 C:\Users\Bloodman\Desktop\src\updater\updater\obj\x86\Release\updater.exe
 C:\Users\Bloodman\Desktop\src\updater\updater\obj\x86\Release\updater.pdb
+C:\Users\Bloodman\Desktop\Autopatcher\updater\updater\obj\x86\Release\updater.exe
+C:\Users\Bloodman\Desktop\Autopatcher\updater\updater\obj\x86\Release\updater.pdb
+C:\Users\Bloodman\Desktop\Autopatcher\updater\updater\bin\Release\updater.exe
+C:\Users\Bloodman\Desktop\Autopatcher\updater\updater\bin\Release\updater.pdb
+C:\Users\Bloodman\Desktop\Autopatcher\updater\updater\obj\x86\Release\updater.Form1.resources
+C:\Users\Bloodman\Desktop\Autopatcher\updater\updater\obj\x86\Release\updater.Properties.Resources.resources
+C:\Users\Bloodman\Desktop\Autopatcher\updater\updater\obj\x86\Release\updater.csproj.GenerateResource.Cache
+C:\Users\Bloodman\Desktop\Autopatcher\updater\updater\obj\x86\Release\updater.csprojResolveAssemblyReference.cache
