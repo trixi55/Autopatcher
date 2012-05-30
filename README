@@ -1,5 +1,5 @@
 Postup instalacie:
-1. Na web server nahrajte zlozku patchcreator a nastavte URL v patchcreator/metin/autopatcher.cfg na url pzlozky patchcreator napr. http://www.vasweb.com/patchcreator/
+1. Na web server nahrajte zlozku patchcreator a nastavte URL v patchcreator/metin/autopatcher.cfg na url zlozky patchcreator napr. http://www.vasweb.com/patchcreator/
 2. do zlozky patchcreator/metin/ nakopirujete metin klienta
 3. spustite patchcreator/create.php a nechajte nech vytvori patchinfo.xml
 4. Staci ked si stiahnete AutoPatcher.exe a autopatcher.cfg, spustite AutoPatcher.exe a zvisok si Autopatcher stiahne sam
